@@ -1,0 +1,12 @@
+﻿24640 01:09:49 INFO  [Publishing]: Starting to process 1 publishing options
+24640 01:09:49 INFO  [PublishOptions]: root:null, language:en, targets:Internet, database:web, mode:Full, smart:False children:True, related:True
+23368 01:09:50 WARN  SitePublish detected. PublishContext was overridden with DisableDatabaseCaches=True.
+23368 01:09:50 INFO  Starting [Publishing] - AddItemsToQueue
+23368 01:09:50 INFO  Finished [Publishing] - AddItemsToQueue in 0 ms
+23368 01:09:50 INFO  Starting [Publishing] - ProcessQueue
+23368 01:10:52 INFO  Finished [Publishing] - ProcessQueue in 62634 ms
+23368 01:10:52 INFO  Publish Mode : Full
+23368 01:10:52 INFO  Created : 7
+23368 01:10:52 INFO  Updated : 4631
+23368 01:10:52 INFO  Deleted : 0
+23368 01:10:52 INFO  Skipped : 2

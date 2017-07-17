@@ -1,0 +1,17 @@
+﻿20100 03:15:05 INFO  [Recovery]: Setting default publish recovery strategy.
+20100 03:15:05 INFO  [Recovery]: Publish Recovery Enabled - False
+20100 03:15:05 INFO  [Recovery]: Publish Recovery Strategy - DatabasePublishRecoveryStrategy
+20100 03:15:05 INFO  Settings.Publishing.AutoScheduleSmartPublish:True
+20100 03:15:05 INFO  Settings.Publishing.CheckSecurity:False
+20100 03:15:05 INFO  Settings.Publishing.CompareRevisions:True
+20100 03:15:05 INFO  Settings.Publishing.DisableDatabaseCaches:False
+20100 03:15:05 INFO  Settings.Publishing.ExecuteInManagedThreadPool:False
+20100 03:15:05 INFO  Settings.Publishing.LogInterval:0
+20100 03:15:05 INFO  Settings.Publishing.MaxDegreeOfParallelism:1
+20100 03:15:05 INFO  Settings.Publishing.PublishDialogPollingInterval:500
+20100 03:15:05 INFO  Settings.Publishing.PublishEmptyItems:False
+20100 03:15:05 INFO  Settings.Publishing.PublishingInstance:WIN81QWERTY-sitecore82
+20100 03:15:05 INFO  Settings.Publishing.RequireTargetDeleteRightWhenCheckingSecurity:True
+20100 03:15:05 INFO  Settings.Publishing.StatusUpdateInterval:00:00:02
+20100 03:15:05 INFO  Settings.Publishing.ThreadPriority:BelowNormal
+20100 03:15:05 INFO  Settings.Publishing.TimeBeforeStatusExpires:02:00:00

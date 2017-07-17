@@ -1,0 +1,3 @@
+﻿20692 03:52:08 INFO  Warming and Caching your search indexes
+20692 03:52:08 INFO  /******* Warming Queries ********/
+20692 03:52:08 INFO  /*************************/

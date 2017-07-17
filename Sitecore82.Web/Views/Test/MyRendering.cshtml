@@ -1,0 +1,10 @@
+﻿@using Glass.Mapper.Sc.Web.Mvc
+@model Sitecore82.Models.Models.IMyRenderingData
+
+<h1>My Rendering View</h1>
+
+@if (Model != null)
+{
+    <p>Heading Text: @Html.Glass().Editable(x => x.Heading)</p>
+    <p>SubHeading Text: @Html.Glass().Editable(x => x.SubHeading)</p>
+}

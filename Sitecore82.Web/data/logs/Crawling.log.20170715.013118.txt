@@ -1,0 +1,259 @@
+﻿23336 01:31:21 INFO  [Index=sitecore_core_index] Initializing SitecoreItemCrawler. DB:core / Root:/sitecore
+23336 01:31:21 INFO  [Index=sitecore_master_index] Initializing SitecoreItemCrawler. DB:master / Root:/sitecore
+23336 01:31:21 INFO  [Index=sitecore_web_index] Initializing SitecoreItemCrawler. DB:web / Root:/sitecore
+23336 01:31:21 INFO  [Index=sitecore_marketing_asset_index_master] Initializing SitecoreItemCrawler. DB:master / Root:/sitecore/media library
+23336 01:31:21 INFO  [Index=sitecore_marketing_asset_index_web] Initializing SitecoreItemCrawler. DB:web / Root:/sitecore/media library
+23336 01:31:21 INFO  [Index=sitecore_marketingdefinitions_master] Initializing SitecoreItemCrawler. DB:master / Root:{EC095310-746F-4C1B-A73F-941863564DC2}
+23336 01:31:21 INFO  [Index=sitecore_marketingdefinitions_master] Initializing SitecoreItemCrawler. DB:master / Root:{09CF9489-8F71-4A16-B707-4F013D8CDEFB}
+23336 01:31:21 INFO  [Index=sitecore_marketingdefinitions_web] Initializing SitecoreItemCrawler. DB:web / Root:{EC095310-746F-4C1B-A73F-941863564DC2}
+23336 01:31:21 INFO  [Index=sitecore_marketingdefinitions_web] Initializing SitecoreItemCrawler. DB:web / Root:{09CF9489-8F71-4A16-B707-4F013D8CDEFB}
+23336 01:31:21 INFO  [Index=sitecore_testing_index] Initializing SitecoreItemCrawler. DB:master / Root:/sitecore/system/Marketing Control Panel/Test Lab
+23336 01:31:21 INFO  [Index=sitecore_suggested_test_index] Initializing SitecoreItemCrawler. DB:master / Root:/sitecore/content
+23336 01:31:22 INFO  [Index=sitecore_fxm_master_index] Initializing SitecoreItemCrawler. DB:master / Root:/sitecore/system/Marketing Control Panel/fxm/
+23336 01:31:22 INFO  [Index=sitecore_fxm_web_index] Initializing SitecoreItemCrawler. DB:web / Root:/sitecore/system/Marketing Control Panel/fxm/
+23336 01:31:22 INFO  [Index=sitecore_list_index] Initializing SitecoreItemCrawler. DB:master / Root:/sitecore/system/List Manager/All Lists
+23336 01:31:22 INFO  [Index=social_messages_master] Initializing SitecoreItemCrawler. DB:master / Root:/sitecore/social/Messages
+23336 01:31:22 INFO  [Index=social_messages_web] Initializing SitecoreItemCrawler. DB:web / Root:/sitecore/social/Messages
+23336 01:31:22 INFO  [Index=sitecore_analytics_index] Initializing TimedIndexStrategy with interval '00:00:15'.
+23336 01:31:22 INFO  [Index=sitecore_core_index] Initializing IntervalAsynchronousStrategy [Stamp:].
+23336 01:31:22 INFO  [Index=sitecore_master_index] Initializing SynchronousStrategy.
+23336 01:31:22 INFO  [Index=sitecore_web_index] Initializing OnPublishEndAsynchronousStrategy [Stamp:18665].
+23336 01:31:22 INFO  [Index=sitecore_marketing_asset_index_master] Initializing SynchronousStrategy.
+23336 01:31:22 INFO  [Index=sitecore_marketing_asset_index_web] Initializing OnPublishEndAsynchronousStrategy [Stamp:18665].
+23336 01:31:22 INFO  [Index=sitecore_marketingdefinitions_master] Initializing ManualStrategy. Index will have to be rebuilt manually
+23336 01:31:22 INFO  [Index=sitecore_marketingdefinitions_web] Initializing OnPublishEndAsynchronousStrategy [Stamp:18665].
+23336 01:31:22 INFO  [Index=sitecore_testing_index] Initializing SynchronousStrategy.
+23336 01:31:22 INFO  [Index=sitecore_fxm_master_index] Initializing SynchronousStrategy.
+23336 01:31:22 INFO  [Index=sitecore_fxm_web_index] Initializing OnPublishEndAsynchronousStrategy [Stamp:18665].
+23336 01:31:22 INFO  [Index=sitecore_list_index] Initializing SynchronousStrategy.
+23336 01:31:22 INFO  [Index=social_messages_master] Initializing SynchronousStrategy.
+23336 01:31:22 INFO  [Index=social_messages_web] Initializing OnPublishEndAsynchronousStrategy [Stamp:18665].
+4216 01:33:21 WARN  Hosting Environment Stop Requested : immediate=False
+4216 01:33:21 WARN  [Index=sitecore_analytics_index] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_core_index] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_master_index] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_web_index] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_marketing_asset_index_master] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_marketing_asset_index_web] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_marketingdefinitions_master] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_marketingdefinitions_web] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_testing_index] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_suggested_test_index] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_fxm_master_index] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_fxm_web_index] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_list_index] Crawling Stopped
+4216 01:33:21 WARN  [Index=social_messages_master] Crawling Stopped
+4216 01:33:21 WARN  [Index=social_messages_web] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_analytics_index] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_core_index] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_master_index] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_web_index] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_marketing_asset_index_master] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_marketing_asset_index_web] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_marketingdefinitions_master] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_marketingdefinitions_web] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_testing_index] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_suggested_test_index] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_fxm_master_index] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_fxm_web_index] Crawling Stopped
+4216 01:33:21 WARN  [Index=sitecore_list_index] Crawling Stopped
+4216 01:33:21 WARN  [Index=social_messages_master] Crawling Stopped
+4216 01:33:21 WARN  [Index=social_messages_web] Crawling Stopped
+26956 01:33:22 WARN  [Index=sitecore_core_index] IntervalAsynchronousUpdateStrategy triggered but muted. Indexing is paused.
+26956 01:33:25 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+25084 01:33:26 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+27076 01:33:27 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+26956 01:33:28 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+25084 01:33:29 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+13676 01:33:30 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+26972 01:33:31 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+26972 01:33:32 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+27076 01:33:33 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+26204 01:33:34 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+27076 01:33:35 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+26956 01:33:36 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+26972 01:33:37 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+26956 01:33:38 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+25084 01:33:39 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+26204 01:33:40 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+25452 01:33:41 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+13676 01:33:42 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+26972 01:33:43 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+25452 01:33:44 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+25084 01:33:45 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+26972 01:33:46 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+26956 01:33:47 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+25084 01:33:48 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+25452 01:33:49 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+27076 01:33:50 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+4216 01:33:51 WARN  Hosting Environment Stop Requested : immediate=True
+26956 01:33:51 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+
+25452 01:33:52 ERROR Custodian.UpdateIndexTimestampTimerTick. Update index last updated failed
+Exception: Sitecore.ContentSearch.Exceptions.IndexNotFoundException
+Message: Index sitecore_master_index was not found
+Source: Sitecore.ContentSearch
+   at Sitecore.ContentSearch.ContentSearchManager.GetIndex(String name)
+   at Sitecore.ContentSearch.Maintenance.EventHub.UpdateIndexTimestampTimerTick(Object state)
+

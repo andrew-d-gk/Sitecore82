@@ -1,0 +1,7 @@
+﻿14548 21:20:10 INFO  Warming and Caching your search indexes
+14548 21:20:10 INFO  /******* Warming Queries ********/
+14548 21:20:10 INFO  /*************************/
+21728 21:30:14 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): host:110d559fdea542ea9c1c8a5df7e70ef9en - Filter : 
+10292 21:30:14 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): host:110d559fdea542ea9c1c8a5df7e70ef9ja-jp - Filter : 
+18384 21:30:14 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): host:110d559fdea542ea9c1c8a5df7e70ef9de-de - Filter : 
+18384 21:30:14 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): host:110d559fdea542ea9c1c8a5df7e70ef9da - Filter : 

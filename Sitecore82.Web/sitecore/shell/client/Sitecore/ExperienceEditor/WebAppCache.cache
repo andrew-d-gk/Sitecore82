@@ -1,0 +1,27 @@
+﻿#SPEAK Resources 
+#images
+/sitecore/shell/client/Speak/Assets/img/Speak/GlobalLogo/global_logo.png
+/sitecore/shell/themes/standard/Images/Ribbon/PanelOpen.png
+/~/icon/People/16x16/Astrologer.png
+#Scripts
+/-/speak/v1/assets/main.js
+/-/speak/v1/controls/Pipeline.js
+/-/speak/v1/controls/stringdictionary.js
+/-/speak/v1/business/messagebar.js
+/-/speak/v1/business/AccountInformation.js
+/sitecore/shell/client/Speak/Assets/lib/core/2.0/deps/require.js
+#CSSs
+/sitecore/shell/themes/standard/default/Dialogs.css
+/sitecore/shell/client/Speak/Assets/css/speak-default-theme.css
+/sitecore/shell/Controls/Lib/jQuery/jQueryUI/1.10.3/smoothness/jquery-ui-1.10.3.min.css
+#End SPEAK Resources
+
+#Expirience Editor Resources
+/-/speak/v1/ExperienceEditor/ExperienceEditorProxy.js
+/-/speak/v1/ExperienceEditor/RibbonPageCode.js
+/-/speak/v1/ExperienceEditor/SelectProfileCard.js
+/-/speak/v1/ExperienceEditor/ProfileCards.js
+/-/speak/v1/ExperienceEditor/SetDeviceSimulator.js
+/-/speak/v1/ribbon/SetDateAndTime.js
+/-/speak/v1/ribbon/ChangeDay.js
+#End Expirience Editor Resources

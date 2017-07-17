@@ -1,0 +1,3 @@
+﻿23880 03:21:09 INFO  Warming and Caching your search indexes
+23880 03:21:09 INFO  /******* Warming Queries ********/
+23880 03:21:09 INFO  /*************************/

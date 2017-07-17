@@ -1,0 +1,216 @@
+div[data-sc-id="DetailsColumn"]::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: whitesmoke;
+  border-radius: 5px;
+}
+div[data-sc-id="DetailsColumn"]::-webkit-scrollbar {
+  width: 6px;
+  margin-left: 15px;
+  background-color: whitesmoke;
+}
+div[data-sc-id="DetailsColumn"]::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background-color: #8f8e99;
+}
+div[data-sc-id="DetailsColumn"]::-webkit-scrollbar-thumb:hover {
+  background-color: #606066;
+  border: 1px solid #333333;
+}
+iframe {
+  min-width: 1000px;
+}
+body {
+  color: #474747;
+  min-width: 1000px;
+}
+.sc .sc-dialogFooter {
+  z-index: 1;
+}
+.sc-dialogContent-main {
+  padding: 0;
+  padding-top: 10px;
+}
+.sc-dialogContent-toolbar {
+  padding: 0;
+  display: none;
+}
+.sc-advancedExpander-header-actionbar {
+  width: 20px;
+}
+.row {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+div[data-sc-id="RowPanel"] {
+  margin: 10px 10px 0px 10px !important;
+}
+div[data-sc-id="RowPanelPerformance"] {
+  margin: 10px 10px 0px 10px !important;
+}
+.col-md-4 {
+  width: auto;
+  min-width: 33%;
+}
+.sc div[data-sc-id="MainColumn"] {
+  padding: 0;
+  height: 700px;
+}
+.sc div[data-sc-id="DetailsColumn"] {
+  padding: 0;
+  background-color: white;
+  height: 700px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.sc div[data-sc-id="DetailsColumn"] div[data-sc-id="ThumbnailPanel"] {
+  padding: 0;
+}
+.sc div[data-sc-id="DetailsColumn"] .sc-KPISpot .spot {
+  padding: 0;
+}
+.sc div[data-sc-id="DetailsColumn"] .sc-KPISpot-text {
+  border-radius: 0 0 4px 4px;
+}
+.sc div[data-sc-id="GalleryTitleRow"],
+.sc div[data-sc-id="KPIRowPanel"] {
+  background-color: white;
+  padding: 15px;
+  margin-right: 15px !important;
+}
+.sc div[data-sc-id="RowPanelPerformance"] div[data-sc-id="MainColumn"] {
+  padding-right: 15px;
+}
+.sc div[data-sc-id="RowPanelPerformance"] div[data-sc-id="DetailsColumn"] {
+  height: 650px;
+}
+.sc div[data-sc-id="RowPanelPerformance"] div[data-sc-id="GalleryTitleRow"] {
+  margin-right: 0px !important;
+}
+.sc div[data-sc-id="KPIRowPanel"] {
+  border-top: 1px solid #e7e7e7;
+  padding-top: 30px;
+}
+.sc div[data-sc-id="KPIRowPanel"] .sc-KPISpot .spot {
+  padding: 0;
+  margin-right: 15px;
+}
+.sc div[data-sc-id="KPIRowPanel"] .spot {
+  text-align: center;
+}
+.sc div[data-sc-id="KPIRowPanel"] img[data-sc-id="ConfidenceInfoImage"] {
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+.sc div[data-sc-id="TabsRowPanel"] {
+  margin-top: 15px;
+  margin-right: 15px !important;
+}
+.sc div[data-sc-id="DetailPanelBorder"] {
+  border-top: 1px solid #e7e7e7;
+}
+.sc div[data-sc-id="GoalDetailRowPanel"] {
+  margin-top: 20px;
+}
+.sc .row div[data-sc-id="PreviewPanel"] {
+  padding-top: 40px 10px 0px 10px;
+}
+.sc .row div[data-sc-id="TopGoalsBorder"],
+.sc .row div[data-sc-id="TopClicksToPagesBorder"],
+.sc .row div[data-sc-id="SiteUsageBorder"] {
+  padding-top: 0px;
+  padding-bottom: 1px;
+}
+.sc button[data-sc-id="ExcludeButton"],
+.sc button[data-sc-id="WinnerButton"] {
+  min-width: 140px;
+  margin-right: 5px;
+}
+.sc .scExp-dvListContent {
+  max-height: 235px;
+}
+.sc [data-sc-id="ComponentPerformanceIndicator"] .scExp-dvListContent {
+  max-height: 580px;
+  overflow: auto;
+  overflow-x: hidden;
+}
+.sc .sc-border.sc-show-padding {
+  padding: 10px;
+}
+.sc div[data-sc-id="ReachBorder"] {
+  margin-top: 20px;
+  padding: 10px;
+}
+.sc div[data-sc-id="ReachBorder"] [data-sc-id="ReachRateProgress"] {
+  display: none;
+}
+.sc div[data-sc-id="ReachBorder"] [data-sc-id="ReachProgressHeader"] {
+  font-size: 14px;
+  font-weight: bold;
+  color: #6d717d;
+}
+.sc div[data-sc-id="ReachBorder"] div[data-sc-id="ReachInnerBorder"] {
+  padding-top: 10px;
+}
+.sc div[data-sc-id="ReachBorder"] div[data-sc-id="ReachInnerBorder"] [data-sc-id="ReachValueAllLabel"] {
+  display: inline-block;
+  width: 20%;
+  float: left;
+  text-align: center;
+  font-size: 25px;
+  font-weight: normal;
+  position: relative;
+  top: -9px;
+}
+.sc div[data-sc-id="ReachBorder"] div[data-sc-id="ReachInnerBorder"] [data-sc-id="ReachProgressBar"] {
+  display: inline-block;
+  width: 79%;
+}
+.tab-content {
+  background-color: white;
+  padding: 30px 15px 0px 15px;
+  height: 435px;
+}
+div[data-sc-id="CloseButton"] {
+  position: fixed !important;
+  right: 14px;
+  top: 9px;
+}
+.thumbnail {
+  min-height: 150px;
+  margin-bottom: 40px;
+}
+div[data-sc-id="RowPanelButtons"] {
+  height: 70px;
+}
+div[data-sc-id="ColumnPanelButtons"] {
+  background-color: #e7e7e7;
+  height: 100%;
+  width: 100%;
+}
+div[data-sc-id="RowGoalPanel"] div,
+div[data-sc-id="GoalDetailRowPanel"] div,
+div[data-sc-id="KPIBorder"] div {
+  padding: 0;
+}
+.scExp-dvExperienceList {
+  margin-top: 20px;
+  border: none;
+}
+div[data-sc-id="RulesToKeepList"] {
+  margin-top: 20px;
+}
+div[data-sc-id="ConfidenceLevelIndicator"] .sc-ArrowIndicator-Arrow,
+div[data-sc-id="SCoreGainedIndicator"] .sc-ArrowIndicator-Arrow,
+div[data-sc-id="ConversionRateArrowIndicator"] .sc-ArrowIndicator-Arrow,
+div[data-sc-id="TrailingValueIndicator"] .sc-ArrowIndicator-Arrow,
+div[data-sc-id="TrailingValueArrowIndicator"] .sc-ArrowIndicator-Arrow {
+  display: none;
+}
+div[data-sc-id="KPIRowPanel"] .col-md-4,
+div[data-sc-id="ExperienceKPIRowPanel"] .col-md-4 {
+  text-align: center;
+}
+div[data-sc-id="KPIRowPanel"] .col-md-4 .sc-ArrowIndicator-Row,
+div[data-sc-id="ExperienceKPIRowPanel"] .col-md-4 .sc-ArrowIndicator-Row {
+  display: inline-block;
+}

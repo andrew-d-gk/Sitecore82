@@ -1,0 +1,3 @@
+﻿25436 21:01:46 INFO  Warming and Caching your search indexes
+25436 21:01:46 INFO  /******* Warming Queries ********/
+25436 21:01:46 INFO  /*************************/

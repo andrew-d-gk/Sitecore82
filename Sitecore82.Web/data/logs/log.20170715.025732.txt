@@ -1,0 +1,717 @@
+﻿ManagedPoolThread #0 02:57:32 WARN  Failed to create counter 'Sitecore.System\Events | Events Raised / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #1 02:57:32 WARN  Failed to create counter 'Sitecore.System\IO | File Watcher Events / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #2 02:57:32 WARN  Failed to create counter 'Sitecore.System\Logging | Errors Logged / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #3 02:57:32 WARN  Failed to create counter 'Sitecore.System\Logging | Fatals Logged / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #4 02:57:33 WARN  Failed to create counter 'Sitecore.System\Logging | Informations Logged / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #5 02:57:33 WARN  Failed to create counter 'Sitecore.System\Logging | Warnings Logged / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #6 02:57:33 WARN  Failed to create counter 'Sitecore.System\Logging | Audits Logged / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #7 02:57:33 WARN  Failed to create counter 'Sitecore.System\Reflection | Methods Invoked / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #8 02:57:33 WARN  Failed to create counter 'Sitecore.System\Reflection | Objects Created / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #9 02:57:33 WARN  Failed to create counter 'Sitecore.System\Reflection | Objects Not Created / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #10 02:57:33 WARN  Failed to create counter 'Sitecore.System\Reflection | Types Resolved / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #11 02:57:33 WARN  Failed to create counter 'Sitecore.System\Reflection | Types Not Resolved / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #12 02:57:33 WARN  Failed to create counter 'Sitecore.System\Threading | Background Threads Started / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #13 02:57:34 WARN  Failed to create counter 'Sitecore.System\Xml | Packets Created / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+26816 02:57:34 INFO  HttpModule is being initialized
+26816 02:57:34 INFO  
+26816 02:57:34 INFO  **********************************************************************
+26816 02:57:34 INFO  **********************************************************************
+26816 02:57:34 INFO  Sitecore started
+26816 02:57:34 INFO  Sitecore.NET 8.2 (rev. 170614)
+26816 02:57:34 INFO  
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\antlr3.runtime.dll (Antlr3.Runtime)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\castle.core.dll (Castle Core, Castle Core, including DynamicProxy, Logging Abstractions and DictionaryAdapter, 4.1.1)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\componentart.web.ui.dll ()
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\dotnetopenauth.dll (DotNetOpenAuth, 1c99bf16c5b570cadcf27d0b9ce3d598d06b34ca)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\ecmascript.net.dll (Modified version of the EcmaScript.NET assembly)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\facebook.dll (Facebook C# SDK, Facebook C# SDK)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\facebookapi.dll (FacebookAPI)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\glass.mapper.dll (Glass.Mapper, 4.4.0.199)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\glass.mapper.sc.dll (Glass.Mapper.Sc, 4.3.4.197)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\glass.mapper.sc.mvc.dll (Glass.Mapper.Sc.Mvc)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\google.apis.authentication.oauth2.dll (OAuth2 Authentication Library)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\google.apis.dll ()
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\google.apis.plus.v1.dll (Google.Apis.Plus.v1)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\hammock.clientprofile.dll (Hammock)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\htmlagilitypack.dll (Html Agility Pack, 1.4.6.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\icsharpcode.sharpziplib.dll (#ZipLibrary, A free C# compression library, 0.86.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\iesi.collections.dll (Iesi.Collections, Enhanced Collections for .NET.  Code was published at http://www.codeproject.com/csharp/sets.asp, 1.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\ithit.webdav.server.dll (WebDav Server .Net v2, IT Hit WebDAV Server .Net v2)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\lucene.net.contrib.analyzers.dll (Lucene.Net.Contrib.Analyzers)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\lucene.net.contrib.core.dll (Lucene.Net.Contrib.Core, Contributions to the Lucene.Net core library)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\lucene.net.contrib.fastvectorhighlighter.dll (Lucene.Net.Contrib.FastVectorHighlighter, FastVectorHighlighter for Lucene.Net)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\lucene.net.contrib.highlighter.dll (Lucene.Net.Contrib.Highlighter, The Apache Software Foundation Lucene.Net a full-text search engine library, 2.3.2)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\lucene.net.contrib.memory.dll (Contrib.Memory)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\lucene.net.contrib.queries.dll (Lucene.Net.Contrib.Queries)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\lucene.net.contrib.regex.dll (Lucene.Net.Contrib.Regex)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\lucene.net.contrib.simplefacetedsearch.dll (Lucene.Net.SimpleFacetedSearch, SimpleFacetedSearch for Lucene.Net)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\lucene.net.contrib.snowball.dll (Lucene.Net.Contrib.Snowball, The Apache Software Foundation Lucene.Net a full-text search engine library, 2.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\lucene.net.contrib.spellchecker.dll (SpellChecker.Net, The Apache Software Foundation Lucene.Net a full-text search engine library, 3.0.3)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\lucene.net.dll (Lucene.Net, The Apache Software Foundation Lucene.Net a full-text search engine library, 3.0.3)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\markdownsharp.dll (Markdown processor)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.ai.agent.intercept.dll (Microsoft.AI.Agent.Intercept)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.ai.dependencycollector.dll ()
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.ai.perfcountercollector.dll ()
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.ai.servertelemetrychannel.dll ()
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.ai.web.dll (Application Insights .NET SDK, Application Insights for Web Applications)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.ai.windowsserver.dll ()
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.analysisservices.adomdclient.dll (Microsoft SQL Server, ADOMD.NET, 10.50.1600.1)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.applicationinsights.dll ()
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.aspnet.telemetrycorrelation.dll (Microsoft.AspNet.TelemetryCorrelation, 1.0.0-10628)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.aspnet.webapi.extensions.compression.server.dll (Microsoft.AspNet.WebApi.Extensions.Compression.Server, Module for ASP.NET WebApi that enables GZip and Deflate support for incoming and outgoing requests)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.codedom.providers.dotnetcompilerplatform.dll (Microsoft.CodeDom.Providers.DotNetCompilerPlatform, 1.0.5-40505)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.extensions.dependencyinjection.abstractions.dll (Microsoft .NET Extensions, Abstractions for dependency injection.
+Commonly used types:
+Microsoft.Extensions.DependencyInjection.IServiceCollection
+Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions, 1.0.0-rtm-21431)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.extensions.dependencyinjection.dll (Microsoft .NET Extensions, Default implementation of dependency injection for Microsoft.Extensions.DependencyInjection, 1.0.0-rtm-21431)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.odata.core.dll (Microsoft® .NET Framework, Microsoft.OData.Core.dll, 6.15.0.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.odata.edm.dll (Microsoft® .NET Framework, Microsoft.OData.Edm.dll, 6.15.0.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.practices.servicelocation.dll (Microsoft.Practices.ServiceLocation, A simple facade that provides insulation from specific IoC containers)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.spatial.dll (Microsoft® .NET Framework, Microsoft.Spatial.dll, 6.15.0.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.sqlserver.connectioninfo.dll (Microsoft SQL Server, 10.50.2500.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.sqlserver.dmf.dll (Microsoft SQL Server, 10.50.2500.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.sqlserver.management.sdk.sfc.dll (Microsoft SQL Server, 10.50.2500.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.sqlserver.regsvrenum.dll (Microsoft SQL Server, 10.50.1600.1)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.sqlserver.servicebrokerenum.dll (Microsoft SQL Server, 10.50.1600.1)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.sqlserver.smo.dll (Microsoft SQL Server, 10.50.2500.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.sqlserver.smoextended.dll (Microsoft SQL Server, 10.50.2500.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.sqlserver.sqlenum.dll (Microsoft SQL Server, 10.50.2500.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.web.administration.dll (Internet Information Services)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.web.delegation.dll (Microsoft (R) Windows (R) Operating System)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.web.deployment.tracing.dll (Microsoft (R) Windows (R) Operating System)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.web.infrastructure.dll (Microsoft ASP.Net WebPages)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\microsoft.windowsazure.serviceruntime.dll (Windows Azure Runtime, 2.7.1198.742 (rd_art_stable.151102-1219))
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\mongodb.bson.dll (MongoDB.Bson, Official MongoDB supported BSON library. See http://www.mongodb.org/display/DOCS/CSharp+Language+Center for more details, { version: '1.10.0.62', semver: '1.10.0', commit: '2df664a15859899b9bb0a457e237ec32c7d31e48', commitDate: '2015-01-29 15:41:46' })
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\mongodb.driver.dll (MongoDB.Driver, Official MongoDB supported driver for MongoDB.  See http://www.mongodb.org/display/DOCS/CSharp+Language+Center for more details, { version: '1.10.0.62', semver: '1.10.0', commit: '2df664a15859899b9bb0a457e237ec32c7d31e48', commitDate: '2015-01-29 15:41:46' })
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\mvp.xml.dll (MVP XML Library)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\netbiscuits.onpremise.dll (OnPremise)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\newtonsoft.json.dll (Json.NET, Json.NET is a popular high-performance JSON framework for .NET)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\ninject.dll (Ninject: Lightweight dependency injection for .NET, IoC container)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\ninject.web.common.dll (Ninject.Web.Common: Web Common Extension for Ninject, Bootstrapper for web projects)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\ninject.web.mvc.dll (Ninject.Web.Mvc: Ninject support for MVC3, Extension for Ninject providing integration with ASP.NET MVC3)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\oauthlinkedin.dll (OAuthLinkedIn)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\protobuf-net.dll (protobuf-net, Protocol Buffers for .NET)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\radeditor.net2.dll (RadEditor, Telerik RadEditor)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\razorgenerator.mvc.dll (RazorGenerator, MVC View engine that supports precompiled Razor views, 2.4.2)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.abstractions.dll (Sitecore CMS, 10.0.6-r00427-7aa1a4e)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.analytics.aggregation.dll (Sitecore xDB, 10.0.3-r00151-50c3b36)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.analytics.automation.aggregation.dll (Sitecore Engagement Automation, 10.0.0 rev. 160623)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.analytics.automation.dll (Sitecore Engagement Automation, 10.0.0 rev. 160623)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.analytics.automation.mongodb.dll (Sitecore Engagement Automation, 10.0.0 rev. 160623)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.analytics.core.dll (Sitecore xDB, 10.0.3-r00151-50c3b36)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.analytics.dataaccess.dll (Sitecore xDB, 10.0.3-r00151-50c3b36)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.analytics.dll (Sitecore xDB, Sitecore xDB, 10.0.3-r00151-50c3b36)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.analytics.model.dll (Sitecore xDB, 10.0.3-r00151-50c3b36)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.analytics.mongodb.dll (Sitecore xDB, Sitecore xDB MongoDB Connector, 10.0.3-r00151-50c3b36)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.analytics.omnichannel.dll (Sitecore xDB, 10.0.3-r00151-50c3b36)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.analytics.outcome.dll (Sitecore xDB, 10.0.3-r00151-50c3b36)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.analytics.processing.dll (Sitecore xDB, 10.0.3-r00151-50c3b36)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.analytics.robotdetection.dll (Sitecore Robot Detection, 10.0.0 rev. 160614)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.analytics.sql.dll (Sitecore xDB, 10.0.3-r00151-50c3b36)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.apps.loader.dll (Sitecore.Apps.Loader, Sitecore.Apps.Loader, 1.1.1-r00027)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.buckets.client.dll (Sitecore Buckets, The assembly can be used to have Sitecore queries driven via a query, 2.0.3-r00059-172ac17)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.buckets.dll (Sitecore Buckets, The assembly can be used to have Sitecore queries driven via search providers, 2.0.3-r00059-172ac17)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.ces.devicedetection.dll (Sitecore DeviceDetection Client, 1.1.1-r00035-9c0de72)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.ces.devicedetection.rules.dll (Sitecore DeviceDetection Client, 1.1.1-r00035-9c0de72)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.ces.dll (Sitecore IP Geolocation Service Client, 1.4.0 rev. 160712)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.ces.geoip.dll (Sitecore IP Geolocation Service Client, 1.4.0 rev. 160712)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.ces.geoip.legacylocation.dll (Sitecore IP Geolocation Service Client, 1.4.0 rev. 160712)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.cintel.client.dll (Sitecore Experience Profile, 1.2.2-r00106-f2ca7b5)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.cintel.dll (Sitecore Experience Profile, 1.2.2-r00106-f2ca7b5)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.client.dll (Sitecore CMS, Sitecore Client Application, 10.0.6-r00427-7aa1a4e)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.client.licenseoptions.dll (Sitecore Speak Applications, 1.4.3-r00042-f6a50ff)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.cloud.nexus.dll (Sitecore Cloud Nexus, 2.3.0.59)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.cloud.restclient.dll (Sitecore Cloud RestClient, 6.3.0.50)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.commerce.dll (Sitecore Commerce Connect, 8.2.328-2789d2d)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.commerce.experienceanalytics.dll (Sitecore Commerce Connect, 8.2.328-2789d2d)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.commerce.experienceprofile.dll (Sitecore Commerce Connect, 8.2.328-2789d2d)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.contentsearch.analytics.client.dll (Sitecore ContactSegmentationIndex, 10.0.3-r00038-0270659)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.contentsearch.analytics.dll (Sitecore ContactSegmentationIndex, 10.0.3-r00038-0270659)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.contentsearch.azure.dll (Sitecore.ContentSearch.Azure, 1.1.1-r00181-3a41657)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.contentsearch.client.dll (Sitecore Content Search, 2.0.4-r00156-d42f546)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.contentsearch.dll (Sitecore Content Search, Sitecore CMS Search, 2.0.4-r00156-d42f546)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.contentsearch.linq.dll (Sitecore Content Search, Sitecore CMS Search, 2.0.4-r00156-d42f546)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.contentsearch.linq.lucene.dll (Sitecore Content Search, 2.0.4-r00156-d42f546)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.contentsearch.linq.solr.dll (Sitecore Content Search, 2.0.4-r00156-d42f546)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.contentsearch.luceneprovider.dll (Sitecore Content Search, Sitecore CMS Search, 2.0.4-r00156-d42f546)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.contentsearch.solrprovider.dll (Sitecore Content Search, 2.0.4-r00156-d42f546)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.contenttesting.dll (Sitecore Content Testing, 10.0.1-r0129-36eec12)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.contenttesting.intelligence.dll (Sitecore Content Testing, 10.0.1-r0129-36eec12)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.contenttesting.model.dll (Sitecore Content Testing, 10.0.1-r0129-36eec12)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.contenttesting.mvc.dll (Sitecore Content Testing, 10.0.1-r0129-36eec12)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.controlpanel.dll (Sitecore Speak Applications, 1.4.3-r00042-f6a50ff)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.experienceanalytics.aggregation.dll (Sitecore Experience Analytics, 2.0.3-r01092-309193e)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.experienceanalytics.api.dll (Sitecore Experience Analytics, 2.0.3-r01092-309193e)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.experienceanalytics.client.dll (Sitecore Experience Analytics, 2.0.3-r01092-309193e)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.experienceanalytics.core.dll (Sitecore Experience Analytics, 2.0.3-r01092-309193e)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.experienceanalytics.dll (Sitecore Experience Analytics, 2.0.3-r01092-309193e)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.experienceanalytics.reaggregation.dll (Sitecore Experience Analytics, 2.0.3-r01092-309193e)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.experienceanalytics.reduce.dll (Sitecore Experience Analytics, 2.0.3-r01092-309193e)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.experiencecontentmanagement.administration.dll (Sitecore ExperienceContentManagement Administration, 1.1.3-r00188-95f876f)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.experienceeditor.dll (Sitecore Experience Editor, 3.0.2 rev. 170201)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.experienceeditor.speak.dll (Sitecore Experience Editor, 3.0.2 rev. 170201)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.experienceeditor.speak.ribbon.dll (Sitecore Experience Editor, 3.0.2 rev. 170201)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.experienceexplorer.business.dll (Sitecore Experience Explorer, 2.1.1 rev. 161020)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.experienceexplorer.web.dll (Sitecore Experience Explorer, 2.1.1 rev. 161020)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.fxm.client.dll (Sitecore Federated Experience Manager, 2.2.1 rev. 161026 )
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.fxm.dll (Sitecore Federated Experience Manager, 2.2.1 rev. 161026 )
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.fxm.service.dll (Sitecore Federated Experience Manager, 2.2.1 rev. 161026 )
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.fxm.speak.dll (Sitecore Federated Experience Manager, 2.2.1 rev. 161026 )
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.itemwebapi.dll (Sitecore Item Web API, 1.3.0 rev. 160621)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.kernel.dll (Sitecore CMS, Sitecore CMS Kernel Library, 10.0.6-r00427-7aa1a4e)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.launchpad.dll (Sitecore LaunchPad, 1.1.2-r00016-f173885)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.listmanagement.analytics.dll (Sitecore.ListManager, 1.2.4-r01654-32bf3fa)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.listmanagement.client.dll (Sitecore.ListManager, 1.2.4-r01654-32bf3fa)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.listmanagement.contentsearch.dll (Sitecore.ListManager, 1.2.4-r01654-32bf3fa)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.listmanagement.dll (Sitecore.ListManager, 1.2.4-r01654-32bf3fa)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.listmanagement.services.dll (Sitecore.ListManager, 1.2.4-r01654-32bf3fa)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.logging.client.dll (Sitecore Logging, Lets you insert loggers in your JavaScript, and automatically sends the log messages to a server side component that stores them in your existing server side logs. Interfaces with Sitecore.Logging.
+
+Ideal for logging JavaScript exceptions to the server, including a stack trace. Documentation and examples are at jsnlog.com, 10.0.3-r00009-708d10c)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.logging.dll (Sitecore Logging, Sitecore Logging Framework, 10.0.3-r00009-708d10c)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.marketing.campaigns.client.dll (Sitecore CampaignManager, 1.2.3-r00163-d432ce4)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.marketing.campaigns.services.dll (Sitecore CampaignManager, 1.2.3-r00163-d432ce4)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.marketing.client.dll (Sitecore Marketing Client, 10.0.1-r00063-beed883)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.marketing.core.dll (Sitecore Marketing Operations, 10.0.1-r00078-e3dc0ef)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.marketing.definitions.marketingassets.repositories.dll (Sitecore Marketing Asset Repositories, 10.0.1-r00076-4de1ed5)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.marketing.dll (Sitecore Marketing Operations, 10.0.1-r00078-e3dc0ef)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.marketing.search.dll (Sitecore Marketing Operations, 10.0.1-r00078-e3dc0ef)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.marketing.taxonomy.dll (Sitecore Marketing Operations, 10.0.1-r00078-e3dc0ef)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.models.dll (Sitecore.models)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.mvc.analytics.dll (Sitecore Mvc Analytics, 10.0.0 rev. 160718)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.mvc.devicesimulator.dll (Sitecore Mvc Device Simulators, 1.1.1-r00016-448c8fa)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.mvc.dll (Sitecore Mvc, 1.2.1-r00105-7c6b4bf)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.mvc.experienceeditor.dll (Sitecore MVC Experience Editor, 2.1.1 rev. 161026)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.nexus.dll (Sitecore.Nexus, 1.0.4425)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.nvelocity.dll (Sitecore NVelocity, Sitecore Macro Expansion Library, 7.0.1-r00005-6c34393)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.oracle.dll (Sitecore Oracle, 10.0.4-r00017-a982934)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.pathanalyzer.client.dll (Sitecore Path Analyzer, 1.2.1-r01330-b85df3f)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.pathanalyzer.dll (Sitecore Path Analyzer, 1.2.1-r01330-b85df3f)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.pathanalyzer.services.dll (Sitecore Path Analyzer, 1.2.1-r01330-b85df3f)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.publishing.webdeploy.dll (Sitecore CMS, Sitecore publishing infrastructure based on Web Deployment Tool, 10.0.6-r00427-7aa1a4e)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.security.anticsrf.dll (Sitecore AntiCSRF Module, 1.1.1-r00011-e000b86)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.segmentbuilder.dll (Sitecore.SegmentBuilder, 1.1.4-r00041-4cfa4cf)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.sequenceanalyzer.dll (Sitecore Path Analyzer, 1.2.1-r01330-b85df3f)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.services.client.dll (Sitecore Services Client, Sitecore Services, 1.4.1-r1039-caca69c)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.services.core.dll (Sitecore Services Client Services, Sitecore Services, 1.4.1-r1027-c1fc0cb)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.services.infrastructure.dll (Sitecore Services Client Services, Sitecore Services, 1.4.1-r1027-c1fc0cb)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.services.infrastructure.sitecore.dll (Sitecore Services Client Services, Sitecore Services, 1.4.1-r1027-c1fc0cb)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.sessionprovider.dll (Sitecore Session Providers, 10.0.4-r00047-78f7434)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.sessionprovider.memory.dll (Sitecore Session Providers, 10.0.4-r00047-78f7434)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.sessionprovider.mongodb.dll (Sitecore Session Providers, 10.0.4-r00047-78f7434)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.sessionprovider.redis.dll (Sitecore Session Providers, 10.0.4-r00047-78f7434)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.sessionprovider.sql.dll (Sitecore Session Providers, 10.0.4-r00047-78f7434)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.shell.marketingautomation.dll (Sitecore Engagement Automation Suite, 10.0.0 rev. 160623)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.api.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.client.api.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.client.common.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.client.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.client.domain.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.client.mvc.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.client.publishingservice.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.client.speak.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.configuration.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.domain.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.experienceprofile.client.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.facebook.api.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.facebook.client.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.facebook.client.mvc.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.facebook.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.googleplus.client.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.googleplus.client.mvc.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.googleplus.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.infrastructure.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.infrastructure.logging.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.installation.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.klout.api.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.klout.client.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.linkedin.client.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.linkedin.client.mvc.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.linkedin.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.networkproviders.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.sitecoreaccess.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.socialmarketer.api.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.socialmarketer.client.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.socialmarketer.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.twitter.api.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.twitter.client.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.twitter.client.mvc.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.social.twitter.dll (Social Connected Module, 10.0.2-r03924-97f5950)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.speak.applications.dll (Sitecore Speak Applications, 1.4.3-r00042-f6a50ff)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.speak.client.dll (Sitecore Speak, 2.1.4-r00019-ed0a7b1)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.speak.components.dll (Sitecore Speak Components, 2.1.4-r00039-315de3d)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.speak.components.guidance.dll (Sitecore Speak Components, 2.1.4-r00039-315de3d)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.speak.components.web.dll (Sitecore Speak Components, 2.1.4-r00039-315de3d)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.speak.itemwebapi.dll (Sitecore Speak, 2.1.4-r00019-ed0a7b1)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.speak.web.dll (Sitecore Speak, 2.1.4-r00019-ed0a7b1)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.update.dll (Sitecore Update Installation Wizard, 2.0.1-r00135-7060f87)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.web.dll (Sitecore.Web 1.2.0, 1.2.0 rev. 160603)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.xdb.client.dll (Sitecore xDB, 10.0.3-r00151-50c3b36)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.xdb.configuration.dll (Sitecore xDB, 10.0.3-r00151-50c3b36)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore.zip.dll (Sitecore Zip, ZIP support for Sitecore, 10.0.1-r00006-d7200ec)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore82.controllers.dll (Sitecore82.Controllers)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\sitecore82.web.dll (Sitecore82)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\solrnet.dll (SolrNet, SolrNet, 17bf323fdcbbee137ca44af080426ea0b28cb626)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\stackexchange.redis.strongname.dll (StackExchange.Redis, 1.0.488)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\stimulsoft.base.dll (Stimulsoft Reports, Stimulsoft Base)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\stimulsoft.database.dll (Stimulsoft Reports, Stimulsoft Reports Database Helper)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\stimulsoft.report.dll (Stimulsoft Reports, Stimulsoft Reports Engine)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\stimulsoft.report.web.dll (Stimulsoft Reports.Web, Stimulsoft Reports.Web Viewer)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\stimulsoft.report.webdesign.dll (Stimulsoft Reports Designer.Web, Stimulsoft Reports Designer.Web)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.collections.concurrent.dll (Microsoft® .NET Framework, System.Collections.Concurrent, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.collections.dll (Microsoft® .NET Framework, System.Collections, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.componentmodel.annotations.dll (Microsoft® .NET Framework, System.ComponentModel.Annotations, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.componentmodel.eventbasedasync.dll (Microsoft® .NET Framework, System.ComponentModel.EventBasedAsync, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.diagnostics.debug.dll (Microsoft® .NET Framework, System.Diagnostics.Debug, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.diagnostics.diagnosticsource.dll (Microsoft® .NET Framework, System.Diagnostics.DiagnosticSource, 4.6.25427.03 built by: dlab-DDVSOWINAGE026. Commit Hash: d6210f5a6924725f855bbeda567d6a9fcf9caf1c)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.diagnostics.tracing.dll (Microsoft® .NET Framework, System.Diagnostics.Tracing, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.dynamic.runtime.dll (Microsoft® .NET Framework, System.Dynamic.Runtime, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.globalization.dll (Microsoft® .NET Framework, System.Globalization, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.identitymodel.tokens.jwt.dll (System.IdentityModel.Tokens.Jwt, .Net 4.5 support for JSON Web Security Tokens, 20622.1351.a95e76cc46fe08b6d46b5fbe2405d27269475a1a)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.io.dll (Microsoft® .NET Framework, System.IO, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.linq.expressions.dll (Microsoft® .NET Framework, System.Linq.Expressions, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.net.http.extensions.compression.core.dll (Core)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.net.http.formatting.dll (Microsoft ASP.NET MVC, 5.2.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.net.networkinformation.dll (Microsoft® .NET Framework, System.Net.NetworkInformation, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.net.primitives.dll (Microsoft® .NET Framework, System.Net.Primitives, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.net.requests.dll (Microsoft® .NET Framework, System.Net.Requests, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.objectmodel.dll (Microsoft® .NET Framework, System.ObjectModel, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.reflection.dll (Microsoft® .NET Framework, System.Reflection, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.runtime.dll (Microsoft® .NET Framework, System.Runtime, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.runtime.extensions.dll (Microsoft® .NET Framework, System.Runtime.Extensions, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.runtime.interopservices.dll (Microsoft® .NET Framework, System.Runtime.InteropServices, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.runtime.serialization.primitives.dll (Microsoft® .NET Framework, System.Runtime.Serialization.Primitives, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.runtime.serialization.xml.dll (Microsoft® .NET Framework, System.Runtime.Serialization.Xml, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.servicemodel.http.dll (Microsoft® .NET Framework, System.ServiceModel.Http, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.text.encoding.dll (Microsoft® .NET Framework, System.Text.Encoding, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.text.encoding.extensions.dll (Microsoft® .NET Framework, System.Text.Encoding.Extensions, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.text.regularexpressions.dll (Microsoft® .NET Framework, System.Text.RegularExpressions, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.threading.dll (Microsoft® .NET Framework, System.Threading, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.threading.tasks.dll (Microsoft® .NET Framework, System.Threading.Tasks, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.web.cors.dll (Microsoft ASP.NET MVC, 5.2.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.web.helpers.dll (Microsoft ASP.NET Web Pages, 3.0.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.web.http.cors.dll (Microsoft ASP.NET MVC, 5.2.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.web.http.dll (Microsoft ASP.NET MVC, 5.2.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.web.http.webhost.dll (Microsoft ASP.NET MVC, 5.2.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.web.mvc.dll (Microsoft ASP.NET MVC, System.Web.Mvc.dll, 5.2.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.web.odata.dll (Microsoft OData Web API, 5.9.0-40401)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.web.optimization.dll (System.Web.Optimization)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.web.razor.dll (Microsoft ASP.NET Web Pages, 3.0.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.web.webpages.deployment.dll (Microsoft ASP.NET Web Pages, 3.0.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.web.webpages.dll (Microsoft ASP.NET Web Pages, 3.0.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.web.webpages.razor.dll (Microsoft ASP.NET Web Pages, 3.0.3-30128 (0e974218e12a67d4b1f25422119e40cfe6953e46))
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.xml.readerwriter.dll (Microsoft® .NET Framework, System.Xml.ReaderWriter, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.xml.xdocument.dll (Microsoft® .NET Framework, System.Xml.XDocument, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\system.xml.xmlserializer.dll (Microsoft® .NET Framework, System.Xml.XmlSerializer, 4.7.2053.0)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\telerik.web.ui.dll (Telerik.Web.UI, Telerik UI for ASP.NET AJAX)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\telerik.web.ui.skins.dll (Telerik.Web.UI.Skins, Telerik UI for ASP.NET AJAX Ajax Skins)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\tweetsharp.dll (TweetSharp)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\webactivatorex.dll (WebActivator, A package that allows other packages to execute some startup code in web apps. This package should be used over the older WebActivator, which was not strong named)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\webgrease.dll (WebGrease)
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\windowsazureeventsource.dll (Windows Azure Runtime, 2.7.1198.742 (rd_art_stable.151102-1219))
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\windowsazuretelemetryevents.dll (Windows Azure Runtime, 2.7.1198.742 (rd_art_stable.151102-1219))
+26816 02:57:34 INFO  c:\repo\sitecore82\sitecore82.web\bin\yahoo.yui.compressor.dll (YUI Compressor, A .NET port of the Yahoo! YUI Compressor project)
+26816 02:57:34 INFO  
+26816 02:57:34 INFO  Operating system Microsoft Windows NT 6.3.9600.0
+26816 02:57:34 INFO  
+26816 02:57:34 INFO  Microsoft.NET version 4.0.30319.42000
+26816 02:57:34 INFO  
+26816 02:57:34 INFO  UTC offset: 01:00:00
+26816 02:57:34 INFO  Machine name: win81qwerty
+26816 02:57:34 INFO  App pool ID: sitecore82
+26816 02:57:34 INFO  
+26816 02:57:34 INFO  Process ID: 24868
+26816 02:57:34 INFO  Windows identity used by the process: IIS APPPOOL\sitecore82. Impersonation: False
+26816 02:57:34 INFO  Managed pipeline mode: Integrated
+26816 02:57:34 INFO  
+26816 02:57:34 INFO  EventQueues enabled: True
+26816 02:57:34 INFO  Instance Name:WIN81QWERTY-sitecore82
+26816 02:57:34 INFO  
+26816 02:57:34 INFO  Threshold settings
+26816 02:57:34 INFO    Show threshold warnings: False
+26816 02:57:34 INFO  
+26816 02:57:34 INFO  Databases
+26816 02:57:34 INFO    core
+26816 02:57:34 INFO    master
+26816 02:57:34 INFO    web
+26816 02:57:34 INFO    filesystem
+26816 02:57:34 INFO  
+26816 02:57:34 INFO  Domains
+26816 02:57:34 INFO  Heartbeat - Initializing
+26816 02:57:34 INFO  Heartbeat - Interval set to: 00:00:02
+26816 02:57:34 INFO  Heartbeat - Worker thread started
+26816 02:57:34 INFO  Trying to load XML configuration /App_Config/Security/Domains.config
+26816 02:57:34 INFO    default
+26816 02:57:34 INFO    extranet
+26816 02:57:34 INFO    sitecore
+26816 02:57:34 INFO  **********************************************************************
+26816 02:57:34 INFO  **********************************************************************
+ManagedPoolThread #0 02:57:34 WARN  Failed to create counter 'Sitecore.Jobs\Jobs | Jobs Executed / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #10 02:57:34 WARN  Failed to create counter 'Sitecore.Jobs\Pipelines | Pipelines Aborted / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #11 02:57:34 WARN  Failed to create counter 'Sitecore.Jobs\Pipelines | Pipelines Executed / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #12 02:57:34 WARN  Failed to create counter 'Sitecore.Jobs\Pipelines | Processors Executed / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #13 02:57:34 WARN  Failed to create counter 'Sitecore.Jobs\Publishing | Items Queued / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #1 02:57:34 WARN  Failed to create counter 'Sitecore.Jobs\Publishing | Replacements / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #2 02:57:34 WARN  Failed to create counter 'Sitecore.Jobs\Tasks | File Cleanups / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #3 02:57:34 WARN  Failed to create counter 'Sitecore.Jobs\Tasks | Html Cache Clearings / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #6 02:57:34 WARN  Failed to create counter 'Sitecore.Jobs\Tasks | Publishings / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #4 02:57:34 WARN  Failed to create counter 'Sitecore.Jobs\Tasks | Reminders Sent / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #5 02:57:34 WARN  Failed to create counter 'Sitecore.Jobs\Tasks | Tasks Executed / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+26816 02:57:34 INFO  
+26816 02:57:34 INFO  **********************************************************************
+26816 02:57:34 INFO  **********************************************************************
+26816 02:57:34 INFO  
+26816 02:57:34 INFO  xDB is enabled.
+26816 02:57:34 INFO  
+26816 02:57:34 INFO  Tracking is enabled.
+26816 02:57:34 INFO  
+26816 02:57:34 INFO  Valid xDB license is present.
+26816 02:57:34 INFO  
+26816 02:57:34 INFO  **********************************************************************
+26816 02:57:34 INFO  **********************************************************************
+26816 02:57:34 INFO  [Path Analyzer](ApplicationContainer.RegisterType) Sitecore.SequenceAnalyzer.Data.ITreeStorage
+26816 02:57:34 INFO  [Path Analyzer](ApplicationContainer.RegisterType) Sitecore.PathAnalyzer.Data.Storage.ITreeDefinitionStorage
+26816 02:57:34 INFO  [Path Analyzer](ApplicationContainer.RegisterType) Sitecore.PathAnalyzer.Contracts.ITreeDefinitionService
+26816 02:57:34 INFO  [Path Analyzer](ApplicationContainer.RegisterType) Sitecore.PathAnalyzer.Contracts.IMapItemRepository
+26816 02:57:34 INFO  [Path Analyzer](ApplicationContainer.RegisterType) Sitecore.PathAnalyzer.Contracts.IMapStatusService
+26816 02:57:34 INFO  [Path Analyzer](ApplicationContainer.RegisterType) Sitecore.PathAnalyzer.Contracts.IConfiguration
+26816 02:57:34 INFO  [Path Analyzer](ApplicationContainer.RegisterType) Sitecore.SequenceAnalyzer.Configuration.IPruningConfig
+26816 02:57:34 INFO  [Path Analyzer](ApplicationContainer.RegisterType) Sitecore.PathAnalyzer.Contracts.IContactReader
+26816 02:57:34 INFO  [Path Analyzer](ApplicationContainer.RegisterType) Sitecore.PathAnalyzer.Localization.IResourceManager
+26816 02:57:34 INFO  [Path Analyzer](ApplicationContainer.RegisterType) Sitecore.PathAnalyzer.Data.Caching.ICache
+26816 02:57:34 INFO  [Path Analyzer](ApplicationContainer.RegisterType) Sitecore.PathAnalyzer.Contracts.ITreeProvider
+26816 02:57:34 INFO  [Path Analyzer](ApplicationContainer.RegisterType) Sitecore.PathAnalyzer.Data.SitecoreData.IItemRepository
+26816 02:57:34 INFO  [Path Analyzer](ApplicationContainer.RegisterType) Sitecore.PathAnalyzer.Contracts.IMapItemDeploymentManager
+26816 02:57:34 INFO  [Path Analyzer](ApplicationContainer.RegisterType) Sitecore.PathAnalyzer.Data.Storage.ITreeStorageManager
+26816 02:57:34 INFO  [Path Analyzer](ApplicationContainer.RegisterModelsForSerialization) Setting serialization info
+26816 02:57:34 INFO  [Path Analyzer](ApplicationContainer.RegisterModelsForSerialization) Type 'Sitecore.PathAnalyzer.Data.Models.ExperienceNode, Sitecore.PathAnalyzer' was registered succesfully.
+26816 02:57:34 INFO  [Path Analyzer](ApplicationContainer.RegisterModelsForSerialization) Type 'Sitecore.PathAnalyzer.Data.Models.ExperienceTree, Sitecore.PathAnalyzer' was registered succesfully.
+26816 02:57:34 INFO  [Path Analyzer](ApplicationContainer.RegisterModelsForSerialization) Type 'Sitecore.PathAnalyzer.Data.Models.PageNode, Sitecore.PathAnalyzer' was registered succesfully.
+26816 02:57:34 INFO  MemoryMonitor initialized. Threshold: 2 GB. Interval: 00:00:05
+26816 02:57:34 INFO  [Analytics]: Started background service for 'maintenanceService'.
+26816 02:57:34 INFO  [Analytics]: Started background service for 'aggregation/aggregator'.
+26816 02:57:34 INFO  [Analytics]: Started background service for 'aggregation/contactProcessing'.
+26816 02:57:34 INFO  [Analytics]: Started background service for 'aggregation/rebuildAgent'.
+26816 02:57:34 INFO  [Analytics]: Started background service for 'aggregation/historyWorker'.
+26816 02:57:34 INFO  [Analytics]: Started background service for 'aggregation/historyCompletionCheck'.
+26816 02:57:34 INFO  [Analytics]: Started background service for 'aggregation/automationAggregator'.
+26816 02:57:34 INFO  [Analytics]: Started background service for 'aggregation/automationRangeManager'.
+26816 02:57:34 INFO  [Analytics]: Started background service for 'aggregation/automationCleanupService'.
+26816 02:57:34 INFO  [Analytics]: Automation aggregation SubsystemLoader hook initialized.
+26816 02:57:34 INFO  [Analytics]: Started background service for 'processing/taskAgent'.
+26816 02:57:35 INFO  Cache created: 'rules' (max size: 800KB, running total: 800KB)
+26816 02:57:35 INFO  Cache created: 'ProxyProvider' (max size: 2MB, running total: 3MB)
+26816 02:57:35 INFO  Cache created: 'DeviceItemsCache' (max size: 50MB, running total: 53MB)
+26816 02:57:35 INFO  Cache created: 'core[data]' (max size: 100MB, running total: 153MB)
+26816 02:57:35 INFO  Cache created: 'core[items]' (max size: 50MB, running total: 203MB)
+26816 02:57:35 INFO  Cache created: 'core[paths]' (max size: 2MB, running total: 205MB)
+26816 02:57:35 INFO  Cache created: 'core[standardValues]' (max size: 2MB, running total: 208MB)
+26816 02:57:35 INFO  Cache created: 'core[languageFallbackObsolete]' (max size: 20MB, running total: 228MB)
+26816 02:57:35 INFO  Cache created: 'core[languageFallback]' (max size: 20MB, running total: 248MB)
+26816 02:57:35 INFO  Cache created: 'core[isLanguageFallbackValid]' (max size: 100KB, running total: 248MB)
+26816 02:57:35 INFO  Cache created: 'core[isLanguageFallbackValidObsolete]' (max size: 100KB, running total: 248MB)
+26816 02:57:35 INFO  Cache created: 'core[itempaths]' (max size: 50MB, running total: 298MB)
+26816 02:57:35 INFO  Cache created: 'core[blobIDs]' (max size: 5MB, running total: 303MB)
+26816 02:57:35 INFO  Cache created: 'master[data]' (max size: 100MB, running total: 403MB)
+26816 02:57:35 INFO  Cache created: 'master[items]' (max size: 50MB, running total: 453MB)
+26816 02:57:35 INFO  Cache created: 'master[paths]' (max size: 2MB, running total: 455MB)
+26816 02:57:35 INFO  Cache created: 'master[standardValues]' (max size: 2MB, running total: 458MB)
+26816 02:57:35 INFO  Cache created: 'master[languageFallbackObsolete]' (max size: 20MB, running total: 478MB)
+26816 02:57:35 INFO  Cache created: 'master[languageFallback]' (max size: 20MB, running total: 498MB)
+26816 02:57:35 INFO  Cache created: 'master[isLanguageFallbackValid]' (max size: 100KB, running total: 498MB)
+26816 02:57:35 INFO  Cache created: 'master[isLanguageFallbackValidObsolete]' (max size: 100KB, running total: 498MB)
+26816 02:57:35 INFO  Cache created: 'master[itempaths]' (max size: 50MB, running total: 548MB)
+26816 02:57:35 INFO  Cache created: 'master[blobIDs]' (max size: 5MB, running total: 553MB)
+26816 02:57:35 INFO  Cache created: 'web[data]' (max size: 100MB, running total: 653MB)
+26816 02:57:35 INFO  Cache created: 'web[items]' (max size: 50MB, running total: 703MB)
+26816 02:57:35 INFO  Cache created: 'web[paths]' (max size: 2MB, running total: 705MB)
+26816 02:57:35 INFO  Cache created: 'web[standardValues]' (max size: 2MB, running total: 708MB)
+26816 02:57:35 INFO  Cache created: 'web[languageFallbackObsolete]' (max size: 20MB, running total: 728MB)
+26816 02:57:35 INFO  Cache created: 'web[languageFallback]' (max size: 20MB, running total: 748MB)
+26816 02:57:35 INFO  Cache created: 'web[isLanguageFallbackValid]' (max size: 100KB, running total: 748MB)
+26816 02:57:35 INFO  Cache created: 'web[isLanguageFallbackValidObsolete]' (max size: 100KB, running total: 748MB)
+26816 02:57:35 INFO  Cache created: 'web[itempaths]' (max size: 50MB, running total: 798MB)
+26816 02:57:35 INFO  Cache created: 'web[blobIDs]' (max size: 5MB, running total: 803MB)
+26816 02:57:35 INFO  Cache created: 'filesystem[data]' (max size: 0 bytes, running total: 803MB)
+26816 02:57:35 INFO  Cache created: 'filesystem[items]' (max size: 0 bytes, running total: 803MB)
+26816 02:57:35 INFO  Cache created: 'filesystem[paths]' (max size: 0 bytes, running total: 803MB)
+26816 02:57:35 INFO  Cache created: 'filesystem[standardValues]' (max size: 0 bytes, running total: 803MB)
+26816 02:57:35 INFO  Cache created: 'filesystem[languageFallbackObsolete]' (max size: 20MB, running total: 823MB)
+26816 02:57:35 INFO  Cache created: 'filesystem[languageFallback]' (max size: 20MB, running total: 843MB)
+26816 02:57:35 INFO  Cache created: 'filesystem[isLanguageFallbackValid]' (max size: 100KB, running total: 843MB)
+26816 02:57:35 INFO  Cache created: 'filesystem[isLanguageFallbackValidObsolete]' (max size: 100KB, running total: 843MB)
+26816 02:57:35 INFO  Cache created: 'filesystem[itempaths]' (max size: 50MB, running total: 893MB)
+26816 02:57:35 INFO  Cache created: 'filesystem[blobIDs]' (max size: 5MB, running total: 898MB)
+26816 02:57:36 INFO  Cache created: '[FieldReaderCache, Id: defaultFieldReaderMap]' (max size: 5MB, running total: 903MB)
+ManagedPoolThread #8 02:57:36 INFO  Trying to load XML configuration /App_Config/Security/Domains.config
+26816 02:57:36 INFO  Cache created: 'SqlDataProvider - Property data(core)' (max size: 5MB, running total: 908MB)
+ManagedPoolThread #9 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\Cache Clearings / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #0 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\Cache Hits / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #10 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\Cache Misses / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #11 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\Data Cache Clearings / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #12 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\Data Cache Hits / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #13 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\Data Cache Misses / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #1 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\Html Cache Clearings / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #2 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\Html Cache Hits / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #3 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\Html Cache Misses / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #6 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\Path Cache Clearings / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #4 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\Path Cache Hits / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #5 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\Path Cache Misses / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #7 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\Registry Cache Clearings / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #8 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\Registry Cache Hits / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #9 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\Registry Cache Misses / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #0 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\View State Cache Clearings / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #10 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\View State Cache Hits / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #11 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\View State Cache Misses / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #12 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\XslCache Clearings / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #13 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\XslCache Hits / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #1 02:57:36 WARN  Failed to create counter 'Sitecore.Caching\XslCache Misses / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #2 02:57:36 WARN  Failed to create counter 'Sitecore.Data\Data | Client Data Reads / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #3 02:57:36 WARN  Failed to create counter 'Sitecore.Data\Data | Client Data Writes / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #6 02:57:36 WARN  Failed to create counter 'Sitecore.Data\Data | Items Accessed / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #4 02:57:36 WARN  Failed to create counter 'Sitecore.Data\Data | Physical Reads / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #5 02:57:36 WARN  Failed to create counter 'Sitecore.Data\Data | Physical Writes / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #7 02:57:36 WARN  Failed to create counter 'Sitecore.Data\Globalization | Texts Translated / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #8 02:57:36 WARN  Failed to create counter 'Sitecore.Data\Globalization | Translate Failed / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #9 02:57:36 WARN  Failed to create counter 'Sitecore.Data\Links | Fields Examined / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #0 02:57:36 WARN  Failed to create counter 'Sitecore.Data\Links | Data Read / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #10 02:57:36 WARN  Failed to create counter 'Sitecore.Data\Links | Data Updated / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #11 02:57:36 WARN  Failed to create counter 'Sitecore.Data\SqlServerStream | Open Streams / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #12 02:57:36 WARN  Failed to create counter 'Sitecore.Data\StreamSharer | Open Streams / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #13 02:57:36 WARN  Failed to create counter 'Sitecore.Data\Workflow | Actions Executed / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #1 02:57:36 WARN  Failed to create counter 'Sitecore.Data\Workflow | Security Resolved / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #2 02:57:36 WARN  Failed to create counter 'Sitecore.Data\Workflow | State Changes / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+5096 02:57:36 INFO  Cache created: 'SqlDataProvider - Property data(master)' (max size: 5MB, running total: 913MB)
+5096 02:57:36 INFO  Cache created: 'SqlDataProvider - Property data(web)' (max size: 5MB, running total: 918MB)
+26816 02:57:37 INFO  Cache created: 'taxonomy.campaigngroups' (max size: 20MB, running total: 938MB)
+26816 02:57:37 INFO  Cache created: 'taxonomy.channels' (max size: 20MB, running total: 958MB)
+26816 02:57:37 INFO  Cache created: 'taxonomy.venues' (max size: 20MB, running total: 978MB)
+26816 02:57:37 INFO  Cache created: 'taxonomy.assets' (max size: 20MB, running total: 998MB)
+26816 02:57:37 INFO  Cache created: 'taxonomy.outcomeGroups' (max size: 20MB, running total: 1018MB)
+26816 02:57:37 INFO  [Analytics]: Started background service for 'pathAnalyzer/newMapAgent'.
+26816 02:57:37 INFO  [Analytics]: Started background service for 'pathAnalyzer/smartMergeAgent'.
+26816 02:57:37 INFO  [Analytics]: Started background service for 'aggregation/pathAnalyzerLiveAgent'.
+26816 02:57:37 INFO  [Analytics]: Started background service for 'aggregation/pathAnalyzerHistoryAgent'.
+26816 02:57:37 INFO  [Analytics]: Started background service for 'pathAnalyzer/trailCleanupAgent'.
+26816 02:57:37 INFO  [Analytics]: Started background service for 'pathAnalyzer/mapRebuildStatusCheckerAgent'.
+26816 02:57:37 INFO  [Path Analyzer](.) Path Analyzer subsystem hook initialized.
+26816 02:57:37 WARN  Authentication on CES Discovery service failed.
+Exception: System.Net.WebException
+Message: The remote server returned an error: (403) Forbidden.
+Source: System
+   at System.Net.HttpWebRequest.GetResponse()
+   at Sitecore.CES.Client.WebClient.ExecuteRequest(String requestUri)
+   at Sitecore.CES.Client.ResourceConnector`1.Request(String endpoint, Object[] parameters)
+   at Sitecore.CES.Discovery.EndpointSource.GetEndpoint(String serviceName)
+
+26816 02:57:37 WARN  No subscription for Device Detection service. Could not load the database.
+26816 02:57:37 WARN  Device detection component is disabled
+26816 02:57:37 INFO  [Analytics]: Started background service for 'experienceAnalytics/reduce/agent'.
+26816 02:57:37 INFO  [Experience Analytics]: Experience Analytics subsystem initialized.
+26816 02:57:38 INFO  Cache created: 'LanguageProvider - Languages' (max size: 100KB, running total: 1018MB)
+26816 02:57:38 INFO  Scheduler - Initializing
+26816 02:57:38 INFO  Scheduler - Interval set to: 00:00:05
+26816 02:57:38 INFO  Scheduler - Worker thread started
+26816 02:57:38 ERROR Could not resolve type name: Sitecore82.App_Start.GlassMapperSc, Sitecore82 (method: Sitecore.Configuration.DefaultFactory.CreateFromTypeName(XmlNode configNode, String[] parameters, Boolean assert)).
+ManagedPoolThread #4 02:57:38 INFO  Job started: Update device detection DB
+ManagedPoolThread #4 02:57:41 INFO  Cache created: 'SqlDataProvider - Prefetch data(core)' (max size: 50MB, running total: 1068MB)
+ManagedPoolThread #0 02:57:41 WARN  Failed to create counter 'Sitecore.Data\Data.ClientDataReads'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #10 02:57:41 WARN  Failed to create counter 'Sitecore.Data\Data.ClientDataWrites'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #11 02:57:41 WARN  Failed to create counter 'Sitecore.Data\Data.ItemsAccessed'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #12 02:57:41 WARN  Failed to create counter 'Sitecore.Data\Data.PhysicalReads'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #13 02:57:41 WARN  Failed to create counter 'Sitecore.Data\Data.PhysicalWrites'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #1 02:57:41 WARN  Failed to create counter 'Sitecore.Data\StreamSharer.OpenStreams'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #2 02:57:41 WARN  Failed to create counter 'Sitecore.Data\SqlServerStream.OpenStreams'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #4 02:57:41 INFO  Cache created: 'AccessResultCache' (max size: 10MB, running total: 1078MB)
+ManagedPoolThread #3 02:57:41 WARN  Failed to create counter 'Sitecore.Security\Access Denied / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #6 02:57:41 WARN  Failed to create counter 'Sitecore.Security\Access Granted / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #5 02:57:41 WARN  Failed to create counter 'Sitecore.Security\Access Resolved / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #9 02:57:41 WARN  Failed to create counter 'Sitecore.Security\Modify Requests / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #7 02:57:41 WARN  Failed to create counter 'Sitecore.Security\Programmatic Disabling / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #8 02:57:41 WARN  Failed to create counter 'Sitecore.Security\Programmatic Enabling / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #0 02:57:41 WARN  Failed to create counter 'Sitecore.Security\Programmatic User Switch / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #10 02:57:41 WARN  Failed to create counter 'Sitecore.Security\Read Requests / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #11 02:57:41 WARN  Failed to create counter 'Sitecore.Security\Virtual Users Built / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #4 02:57:41 INFO  Loading Dictionary from cache
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'SqlDataProvider - Prefetch data(web)' (max size: 50MB, running total: 1128MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'shell[html]' (max size: 0 bytes, running total: 1128MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'shell[registry]' (max size: 15MB, running total: 1143MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'shell[viewstate]' (max size: 1MB, running total: 1144MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'shell[xsl]' (max size: 25MB, running total: 1169MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'shell[filtered items]' (max size: 10MB, running total: 1179MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'login[html]' (max size: 0 bytes, running total: 1179MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'login[registry]' (max size: 25MB, running total: 1204MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'login[viewstate]' (max size: 25MB, running total: 1229MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'login[xsl]' (max size: 50MB, running total: 1279MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'login[filtered items]' (max size: 10MB, running total: 1289MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'admin[html]' (max size: 0 bytes, running total: 1289MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'admin[registry]' (max size: 25MB, running total: 1314MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'admin[viewstate]' (max size: 25MB, running total: 1339MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'admin[xsl]' (max size: 50MB, running total: 1389MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'admin[filtered items]' (max size: 10MB, running total: 1399MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'service[html]' (max size: 0 bytes, running total: 1399MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'service[registry]' (max size: 25MB, running total: 1424MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'service[viewstate]' (max size: 25MB, running total: 1449MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'service[xsl]' (max size: 50MB, running total: 1499MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'service[filtered items]' (max size: 10MB, running total: 1509MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'modules_shell[html]' (max size: 0 bytes, running total: 1509MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'modules_shell[registry]' (max size: 25MB, running total: 1534MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'modules_shell[viewstate]' (max size: 25MB, running total: 1559MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'modules_shell[xsl]' (max size: 50MB, running total: 1609MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'modules_shell[filtered items]' (max size: 10MB, running total: 1619MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'modules_website[html]' (max size: 25MB, running total: 1644MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'modules_website[registry]' (max size: 25MB, running total: 1669MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'modules_website[viewstate]' (max size: 25MB, running total: 1694MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'modules_website[xsl]' (max size: 50MB, running total: 1744MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'modules_website[filtered items]' (max size: 10MB, running total: 1754MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'website[html]' (max size: 50MB, running total: 1804MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'website[registry]' (max size: 0 bytes, running total: 1804MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'website[viewstate]' (max size: 0 bytes, running total: 1804MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'website[xsl]' (max size: 25MB, running total: 1829MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'website[filtered items]' (max size: 10MB, running total: 1839MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'website[renderingParameters]' (max size: 10MB, running total: 1849MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'scheduler[html]' (max size: 0 bytes, running total: 1849MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'scheduler[registry]' (max size: 25MB, running total: 1874MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'scheduler[viewstate]' (max size: 25MB, running total: 1899MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'scheduler[xsl]' (max size: 50MB, running total: 1949MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'scheduler[filtered items]' (max size: 10MB, running total: 1959MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'system[html]' (max size: 0 bytes, running total: 1959MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'system[registry]' (max size: 25MB, running total: 1984MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'system[viewstate]' (max size: 25MB, running total: 2009MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'system[xsl]' (max size: 50MB, running total: 2059MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'system[filtered items]' (max size: 10MB, running total: 2069MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'publisher[html]' (max size: 0 bytes, running total: 2069MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'publisher[registry]' (max size: 25MB, running total: 2094MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'publisher[viewstate]' (max size: 25MB, running total: 2119MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'publisher[xsl]' (max size: 50MB, running total: 2169MB)
+ManagedPoolThread #4 02:57:42 INFO  Cache created: 'publisher[filtered items]' (max size: 10MB, running total: 2179MB)
+ManagedPoolThread #12 02:57:42 WARN  Failed to create counter 'Sitecore.Presentation\Context | Site Changed / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #13 02:57:42 WARN  Failed to create counter 'Sitecore.Presentation\Rendering | Controls Rendered / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #1 02:57:42 WARN  Failed to create counter 'Sitecore.Presentation\Rendering | Controls Rendered From Cache / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #2 02:57:42 WARN  Failed to create counter 'Sitecore.Presentation\Rendering | Pages Generated / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #3 02:57:42 WARN  Failed to create counter 'Sitecore.Presentation\Rendering | Renderings Rendered / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #6 02:57:42 WARN  Failed to create counter 'Sitecore.Presentation\Rendering | Sublayouts Rendered / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #5 02:57:42 WARN  Failed to create counter 'Sitecore.Presentation\Rendering | XmlControls Compiled / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #9 02:57:42 WARN  Failed to create counter 'Sitecore.Presentation\Rendering | Xsl Transforms Rendered / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #7 02:57:42 WARN  Failed to create counter 'Sitecore.Presentation\Rendering | Xaml Controls Compiled / sec'. Sitecore has no necessary permissions for reading/creating counters.
+		Message: Access to the registry key 'Global' is denied.
+ManagedPoolThread #4 02:57:42 WARN  No subscription for Device Detection service. Could not check for updates.
+ManagedPoolThread #4 02:57:42 INFO  Job ended: Update device detection DB (units processed: )
+14256 02:57:43 INFO  Scheduler - Adding agents
+14256 02:57:43 INFO  Scheduler - Adding agent: Sitecore.Tasks.UrlAgent (interval: 00:15:00)
+14256 02:57:43 INFO  Scheduler - Adding agent: Sitecore.Tasks.TaskDatabaseAgent (interval: 00:10:00)
+14256 02:57:43 INFO  Scheduler - Adding agent: Sitecore.Tasks.CompactClientDataAgent (interval: 04:00:00)
+14256 02:57:43 INFO  Scheduler - Adding agent: Sitecore.Tasks.CleanupHistory (interval: 04:00:00)
+14256 02:57:43 INFO  Scheduler - Adding agent: Sitecore.Tasks.CleanupPublishQueue (interval: 04:00:00)
+14256 02:57:43 INFO  Scheduler - Adding agent: Sitecore.Tasks.CleanupEventQueue (interval: 04:00:00)
+14256 02:57:43 INFO  Scheduler - Skipping inactive agent: Sitecore.Tasks.HtmlCacheClearAgent
+14256 02:57:43 INFO  Scheduler - Adding agent: Sitecore.Tasks.CleanupAuthenticationTicketsAgent (interval: 04:00:00)
+14256 02:57:43 INFO  Scheduler - Skipping inactive agent: Sitecore.Tasks.PublishAgent
+14256 02:57:43 INFO  Scheduler - Adding agent: Sitecore.Tasks.CleanupAgent (interval: 06:00:00)
+14256 02:57:43 INFO  Scheduler - Adding agent: Sitecore.Tasks.CounterDumpAgent (interval: 01:00:00)
+14256 02:57:43 INFO  Scheduler - Adding agent: Sitecore.Tasks.CloneNotificationsCleanupAgent (interval: 1.00:00:00)
+14256 02:57:43 INFO  Scheduler - Adding agent: Sitecore.Analytics.Tasks.EmailReportsTask (interval: 01:00:00)
+14256 02:57:43 INFO  Scheduler - Adding agent: Sitecore.ContentSearch.Tasks.Optimize (interval: 12:00:00)
+14256 02:57:43 INFO  Scheduler - Adding agent: Sitecore.PathAnalyzer.Client.Tasks.HelpUpdateAgent (interval: 03:00:00)
+14256 02:57:43 INFO  Scheduler - Adding agent: Sitecore.PathAnalyzer.Client.Tasks.HelpUpdateAgent (interval: 03:00:00)
+14256 02:57:43 INFO  Scheduler - Adding agent: Core_Database_Agent (interval: 00:10:00)
+14256 02:57:43 INFO  Scheduler - Adding agent: Master_Database_Agent (interval: 00:10:00)
+14256 02:57:43 INFO  Scheduler - Adding agent: Sitecore.Tasks.CleanupFDAObsoleteMediaData (interval: 1.00:00:00)
+14256 02:57:43 INFO  Scheduler - Adding agent: Sitecore.Tasks.WebDAVOptionsCleanupAgent (interval: 1.00:00:00)
+14256 02:57:43 INFO  Scheduler - Skipping inactive agent: Sitecore.Social.Client.Tasks.ManagePreExpiredAccounts
+14256 02:57:43 INFO  Scheduler - Skipping inactive agent: Sitecore.Social.Client.Tasks.SynchronizeSocialMediaInfo
+14256 02:57:43 INFO  Scheduler - Adding agent: Sitecore.Social.Client.Tasks.PostFlaggedMessages (interval: 01:00:00)
+14256 02:57:43 INFO  Scheduler - Adding agent: Sitecore.Social.Client.Tasks.UpdateMessagesStatistics (interval: 01:00:00)
+14256 02:57:43 INFO  Scheduler - Agents added
+27152 02:57:48 INFO  **************************************************
+27152 02:57:48 WARN  Sitecore shutting down
+27152 02:57:48 WARN  Shutdown message: Initialization Error
+HostingEnvironment initiated shutdown
+ManagedPoolThread #12 02:57:54 INFO  Cache created: 'SqlDataProvider - Prefetch data(master)' (max size: 100MB, running total: 2279MB)

@@ -1,0 +1,17 @@
+﻿14548 20:56:04 INFO  [Index=sitecore_core_index] Initializing SitecoreItemCrawler. DB:core / Root:/sitecore
+14548 20:56:04 INFO  [Index=sitecore_master_index] Initializing SitecoreItemCrawler. DB:master / Root:/sitecore
+14548 20:56:04 INFO  [Index=sitecore_web_index] Initializing SitecoreItemCrawler. DB:web / Root:/sitecore
+14548 20:56:04 INFO  [Index=sitecore_marketing_asset_index_master] Initializing SitecoreItemCrawler. DB:master / Root:/sitecore/media library
+14548 20:56:05 INFO  [Index=sitecore_marketing_asset_index_web] Initializing SitecoreItemCrawler. DB:web / Root:/sitecore/media library
+14548 20:56:05 INFO  [Index=sitecore_marketingdefinitions_master] Initializing SitecoreItemCrawler. DB:master / Root:{EC095310-746F-4C1B-A73F-941863564DC2}
+14548 20:56:05 INFO  [Index=sitecore_marketingdefinitions_master] Initializing SitecoreItemCrawler. DB:master / Root:{09CF9489-8F71-4A16-B707-4F013D8CDEFB}
+14548 20:56:05 INFO  [Index=sitecore_marketingdefinitions_web] Initializing SitecoreItemCrawler. DB:web / Root:{EC095310-746F-4C1B-A73F-941863564DC2}
+14548 20:56:05 INFO  [Index=sitecore_marketingdefinitions_web] Initializing SitecoreItemCrawler. DB:web / Root:{09CF9489-8F71-4A16-B707-4F013D8CDEFB}
+14548 20:56:05 INFO  [Index=sitecore_testing_index] Initializing SitecoreItemCrawler. DB:master / Root:/sitecore/system/Marketing Control Panel/Test Lab
+14548 20:56:05 INFO  [Index=sitecore_suggested_test_index] Initializing SitecoreItemCrawler. DB:master / Root:/sitecore/content
+14548 20:56:05 INFO  [Index=sitecore_fxm_master_index] Initializing SitecoreItemCrawler. DB:master / Root:/sitecore/system/Marketing Control Panel/fxm/
+14548 20:56:05 INFO  [Index=sitecore_fxm_web_index] Initializing SitecoreItemCrawler. DB:web / Root:/sitecore/system/Marketing Control Panel/fxm/
+14548 20:56:05 INFO  [Index=sitecore_list_index] Initializing SitecoreItemCrawler. DB:master / Root:/sitecore/system/List Manager/All Lists
+14548 20:56:05 INFO  [Index=social_messages_master] Initializing SitecoreItemCrawler. DB:master / Root:/sitecore/social/Messages
+14548 20:56:05 INFO  [Index=social_messages_web] Initializing SitecoreItemCrawler. DB:web / Root:/sitecore/social/Messages
+14548 20:56:05 INFO  [Index=sitecore_analytics_index] Initializing TimedIndexStrategy with interval '00:00:15'.

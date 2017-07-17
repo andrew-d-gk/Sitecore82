@@ -1,0 +1,3 @@
+﻿24752 22:17:42 INFO  Warming and Caching your search indexes
+24752 22:17:42 INFO  /******* Warming Queries ********/
+24752 22:17:42 INFO  /*************************/

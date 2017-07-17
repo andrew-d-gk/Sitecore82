@@ -1,0 +1,42 @@
+﻿23336 01:31:22 INFO  Warming and Caching your search indexes
+23336 01:31:22 INFO  /******* Warming Queries ********/
+23336 01:31:22 INFO  /*************************/
+27180 01:32:11 INFO  ExecuteQueryAgainstLucene (social_messages_master): +container:master110d559fdea542ea9c1c8a5df7e70ef9en +(_template:a6575aec8bc54591b7308fcdc0ccddb5 _template:7e49b0aa5eba4a02852c4744e2288ac2) - Filter : 
+26956 01:32:12 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): __is_running:1 - Filter : 
+27076 01:32:12 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): +host:110d559fdea542ea9c1c8a5df7e70ef9en +(-__is_running:1 +*:*) - Filter : 
+27180 01:32:12 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+27180 01:32:12 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+27180 01:32:12 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+27180 01:32:12 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+27180 01:32:12 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+27180 01:32:12 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+27180 01:32:12 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+27180 01:32:12 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): __is_running:1 - Filter : 
+26972 01:32:37 INFO  ExecuteQueryAgainstLucene (social_messages_master): +container:master110d559fdea542ea9c1c8a5df7e70ef9en +(_template:a6575aec8bc54591b7308fcdc0ccddb5 _template:7e49b0aa5eba4a02852c4744e2288ac2) - Filter : 
+4216 01:32:38 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): __is_running:1 - Filter : 
+27180 01:32:38 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): +host:110d559fdea542ea9c1c8a5df7e70ef9en +(-__is_running:1 +*:*) - Filter : 
+26972 01:32:38 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+26972 01:32:38 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+26972 01:32:38 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+26972 01:32:38 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+26972 01:32:38 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+26972 01:32:38 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+26972 01:32:38 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+26972 01:32:38 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): __is_running:1 - Filter : 
+13676 01:33:03 INFO  GetFacets : _templatename : +_datasource:sitecore +(+_latestversion:1 +(+_path:110d559fdea542ea9c1c8a5df7e70ef9 +_template:a462cc8cd7884d819a61d339f3a8f8ff))
+13676 01:33:03 INFO  GetFacets : culture : +_datasource:sitecore +(+_latestversion:1 +(+_path:110d559fdea542ea9c1c8a5df7e70ef9 +_template:a462cc8cd7884d819a61d339f3a8f8ff))
+13676 01:33:03 INFO  GetFacets : parsedcreatedby : +_datasource:sitecore +(+_latestversion:1 +(+_path:110d559fdea542ea9c1c8a5df7e70ef9 +_template:a462cc8cd7884d819a61d339f3a8f8ff))
+13676 01:33:03 INFO  GetFacets : __smallcreateddate : +_datasource:sitecore +(+_latestversion:1 +(+_path:110d559fdea542ea9c1c8a5df7e70ef9 +_template:a462cc8cd7884d819a61d339f3a8f8ff))
+26204 01:33:03 INFO  ExecuteQueryAgainstLucene (sitecore_master_index): +_datasource:sitecore +(+_latestversion:1 +(+_path:110d559fdea542ea9c1c8a5df7e70ef9 +_template:a462cc8cd7884d819a61d339f3a8f8ff)) - Filter : 
+26204 01:33:03 INFO  ExecuteQueryAgainstLucene (sitecore_master_index): is_displayed_in_search_results:1 - Filter : +(_language:en*)
+27076 01:33:17 INFO  ExecuteQueryAgainstLucene (social_messages_master): +container:master110d559fdea542ea9c1c8a5df7e70ef9en +(_template:a6575aec8bc54591b7308fcdc0ccddb5 _template:7e49b0aa5eba4a02852c4744e2288ac2) - Filter : 
+25084 01:33:17 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): __is_running:1 - Filter : 
+26956 01:33:17 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): +host:110d559fdea542ea9c1c8a5df7e70ef9en +(-__is_running:1 +*:*) - Filter : 
+26972 01:33:17 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+26972 01:33:17 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+26972 01:33:17 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+26972 01:33:17 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+26972 01:33:17 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+26972 01:33:17 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+26972 01:33:17 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+26972 01:33:17 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): __is_running:1 - Filter : 

@@ -1,0 +1,3 @@
+﻿14548 21:39:16 INFO  Warming and Caching your search indexes
+14548 21:39:16 INFO  /******* Warming Queries ********/
+14548 21:39:16 INFO  /*************************/

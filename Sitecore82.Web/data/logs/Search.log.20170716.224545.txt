@@ -1,0 +1,18 @@
+﻿30532 22:45:50 INFO  Warming and Caching your search indexes
+30532 22:45:50 INFO  /******* Warming Queries ********/
+30532 22:45:50 INFO  /*************************/
+21228 22:49:18 INFO  ExecuteQueryAgainstLucene (social_messages_master): +container:master110d559fdea542ea9c1c8a5df7e70ef9en +(_template:a6575aec8bc54591b7308fcdc0ccddb5 _template:7e49b0aa5eba4a02852c4744e2288ac2) - Filter : 
+21228 22:49:18 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): __is_running:1 - Filter : 
+32580 22:49:18 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): +host:110d559fdea542ea9c1c8a5df7e70ef9en +(-__is_running:1 +*:*) - Filter : 
+19388 22:49:18 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+19388 22:49:19 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+19388 22:49:19 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+19388 22:49:19 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+19388 22:49:19 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+19388 22:49:19 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+19388 22:49:19 INFO  ExecuteQueryAgainstLucene (sitecore_suggested_test_index): +_latestversion:1 +_language:en +(-MatchNoDocsQuery[] +*:*) - Filter : 
+19388 22:49:19 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): __is_running:1 - Filter : 
+31308 22:51:19 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): host:110d559fdea542ea9c1c8a5df7e70ef9en - Filter : 
+31308 22:51:19 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): +host:110d559fdea542ea9c1c8a5df7e70ef9en +__is_running:1 - Filter : 
+31308 22:51:20 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): +__is_running:1 +SpanWildcardQuery(datasourceitems:*110d559fdea542ea9c1c8a5df7e70ef9*) - Filter : 
+31308 22:51:24 INFO  ExecuteQueryAgainstLucene (social_messages_master): +container:master110d559fdea542ea9c1c8a5df7e70ef9en +(_template:a6575aec8bc54591b7308fcdc0ccddb5 _template:7e49b0aa5eba4a02852c4744e2288ac2) - Filter : 
